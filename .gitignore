@@ -1,0 +1,19 @@
+/target/
+/test-output/
+/node_modules/
+
+# Eclipse STS artifacts
+**/.settings/**
+**/.classpath
+**/.project
+
+# IntelliJ project files
+.idea
+*.iml
+
+# Mac OS files
+.DS_Store
+
+#log files
+*.log*
+
